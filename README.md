@@ -1,3 +1,3 @@
 # renovate_local
-- testing local renovate instance
+- testing local renovate instance.
 
