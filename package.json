@@ -1,0 +1,23 @@
+{
+  "name": "renovatelocal",
+  "version": "0.0.1",
+  "description": "POC for verifying renovate integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maxmil7/renovatelocal.git"
+  },
+  "author": "maxmil7",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxmil7/renovatelocal/issues"
+  },
+  "homepage": "https://github.com/maxmil7/renovatelocal#readme",
+  "dependencies": {
+    "@maxmil7/greenkeeper_mod": "~1.6.1",
+    "tape": "^4.11.0"
+  }
+}
